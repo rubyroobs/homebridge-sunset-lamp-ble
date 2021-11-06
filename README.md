@@ -1,6 +1,6 @@
 # homebridge-sunset-lamp-ble
 
-Homebridge plugin for [this specific sunset lamp](https://ja.aliexpress.com/item/1005002359444838.html), though in theory it should work with any ["iStrip+""](https://apps.apple.com/us/app/istrip/id1524125189) compatible lamp. This plugin has an encryption key that is hardcoded in the device so it likely will not work with other devices.
+Homebridge plugin for [this specific sunset lamp](https://ja.aliexpress.com/item/1005002359444838.html), though in theory it should work with any ["iStrip+"](https://apps.apple.com/us/app/istrip/id1524125189) compatible lamp. This plugin has an encryption key that is hardcoded in the device so it likely will not work with other devices.
 
 # Installation and Configuration
 
